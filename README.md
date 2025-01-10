@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Milad+and+DevOps+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Milad+and+MLOps+World.+)](https://git.io/typing-svg)
